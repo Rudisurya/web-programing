@@ -1,0 +1,14 @@
+Rencana belajar
+-  Web HTML
+-  Web CSS
+-  Web CSS Layout
+-  Web CSS3
+-  Web Javascript
+-  Web Javascript DOM
+-  Web Javascript Lanjutan
+-  Web PHP
+-  Web OOP
+-  Web MVC
+-  Web Codeigniter
+-  Web Composer
+-  Web Git dan Github
